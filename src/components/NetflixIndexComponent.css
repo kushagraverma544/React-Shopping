@@ -1,0 +1,25 @@
+/* html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid {
+    background-image: url("NetflixBack.jpg");
+    background-size: contain;
+    height: 100vmax;
+    color: white;
+} */
+
+.box {
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 100vmax;
+    width: 100vmax;
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    height: 350px;
+}
+
